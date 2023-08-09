@@ -1,8 +1,16 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
-theme: just-the-docs
+title: BloxFresh Support
+description: Support for BloxFresh
+baseurl: "/"
 
-url: https://just-the-docs.github.io
+back_to_top: true
+back_to_top_text: "Back to top"
+
+last_edit_timestamp: true
+last_edit_time_format: "%b %e %Y at %I:%M %p"
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Group: https://github.com/just-the-docs/just-the-docs-template
+
+color_scheme: dark
+
+remote_theme: just-the-docs/just-the-docs
